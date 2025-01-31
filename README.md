@@ -14,6 +14,6 @@ This project is part of the HNG Stage 0 Task. It includes a mobile app linking t
 ```sh
 git clone https://github.com/Dessybaba/mobile_app.git
 cd HNG-Mobile-App/mobile_app
-Test the app online: https://appetize.io/app/android/com.example.mobile_app?device=pixel7&osVersion=13.0
+Test the app online: https://appetize.io/app/b_dxdv2sjhdk7lnzmrbabncydmwq
 
 
