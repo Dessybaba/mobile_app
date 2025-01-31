@@ -1,16 +1,19 @@
-# mobile_app
+# HNG Mobile App
 
-A new Flutter project.
+This project is part of the HNG Stage 0 Task. It includes a mobile app linking to the project repository and HNG Hire pages.
 
-## Getting Started
+## 📂 Project Structure
+- `mobile_app/` - The Flutter app.
+- `.gitignore` - Excludes unnecessary files.
+- `LICENSE` - MIT License.
+- `CONTRIBUTING.md` - Collaboration guidelines.
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Clone the repository
+```sh
+git clone https://github.com/Dessybaba/mobile_app.git
+cd HNG-Mobile-App/mobile_app
+Test the app online: https://appetize.io/app/android/com.example.mobile_app?device=pixel7&osVersion=13.0
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
